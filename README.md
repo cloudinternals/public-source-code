@@ -1,2 +1,2 @@
-# source-code
-Source code used in the blog posts and YouTube videos
+# Public Source Code
+Source code used in the public blog posts and YouTube videos
